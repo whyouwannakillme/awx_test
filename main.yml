@@ -1,4 +1,5 @@
 ---
- - name: Test Message
-   debug:
+ - tasks:
+  - name: Test Message
+    debug:
      msg: "AWX and Ansible"
