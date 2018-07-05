@@ -1,5 +1,4 @@
 ---
-# tasks file for roleawx
-  - name: Test Message
-    debug:
-      msg: "AWX and Ansible"
+ - name: Test Message
+   debug:
+     msg: "AWX and Ansible"
